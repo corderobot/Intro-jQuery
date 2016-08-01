@@ -1,0 +1,14 @@
+$height-width: 30px;
+
+.global{
+	overflow: hidden;
+	.contenedor{
+		float: left;
+		margin: 5px;
+		.mostrar{
+			border: black solid 3px;
+			height: $height-width;
+			width: $height-width;
+		}
+	}
+}

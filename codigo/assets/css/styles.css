@@ -1,0 +1,9 @@
+.global {
+  overflow: hidden; }
+  .global .contenedor {
+    float: left;
+    margin: 5px; }
+    .global .contenedor .mostrar {
+      border: black solid 3px;
+      height: 30px;
+      width: 30px; }
